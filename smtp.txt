@@ -1,0 +1,10 @@
+/*---------------
+*-----GMAIL-----
+---------------*/
+
+MAIL_DRIVER=smtp
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=25
+MAIL_USERNAME=ritesh.shr3stha@gmail.com
+MAIL_PASSWORD=ytwkjzhjdybolred
+MAIL_ENCRYPTION=tls
